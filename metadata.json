@@ -1,0 +1,6 @@
+{
+  "name": "La Petite Pâtisserie — 法式蛋糕疊疊樂",
+  "description": "溫馨法式甜點屋風格的 2D 直式鐘擺蛋糕疊疊樂手機遊戲，抓準時機投放蛋糕、切邊疊高並挑戰完美連擊。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
